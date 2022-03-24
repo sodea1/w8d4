@@ -16,7 +16,6 @@ class Clock {
         // Format the time in HH:MM:SS
         // Use console.log to print it.
         console.log(`${this.hours}:${this.minutes}:${this.seconds}`);
-
     }
 
     increment() {
